@@ -1,7 +1,7 @@
 {
   "name": "ytmd",
   "main": "./lib/ytmd",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Make YouTube video URL markdown ready!",
   "license": "MIT",
   "private": true,
