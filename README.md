@@ -4,7 +4,7 @@
 Checkout [node-ytmd](https://github.com/hemanth/node-ytmd) for more info.
 
 ## Getting Started
-Install the module with: `apm install mdurl`.
+Install the module with: `apm install ytmd`.
 
 Highlight the youtube URL and hit `ctrl-y` and make it markdown ready.
 
